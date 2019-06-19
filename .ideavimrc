@@ -1,0 +1,9 @@
+source ~/.vimrc
+
+" surround.vim
+" https://github.com/tpope/vim-surround
+set surround
+
+" vim-multiple-cursors
+" https://github.com/terryma/vim-multiple-cursors
+set multiple-cursors
