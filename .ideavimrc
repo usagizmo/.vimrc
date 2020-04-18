@@ -1,9 +1,13 @@
 source ~/.vimrc
 
-" surround.vim
+" vim-surround
 " https://github.com/tpope/vim-surround
 set surround
 
 " vim-multiple-cursors
 " https://github.com/terryma/vim-multiple-cursors
 set multiple-cursors
+
+" vim-easymotion
+" https://github.com/easymotion/vim-easymotion
+set easymotion
